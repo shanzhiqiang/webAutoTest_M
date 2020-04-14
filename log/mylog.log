@@ -1,0 +1,14 @@
+2019-11-29 15:20:27,973  INFO  [root]  [login_case.py(get_data:33)]  -  读取到的参数化数据[('13012345678', '123456', '8888', '我的账户')]
+2019-11-29 15:20:40,973  INFO  [root]  [login_case.py(test01_login:70)]  -  参数化结果: useranme:13012345678,password:123456,verify_code:8888,expect:我的账户
+2019-11-29 16:18:29,468  INFO  [root]  [login_case.py(get_data:31)]  -  读取到的参数化数据[('13012345678', '123456', '8888', '我的账户')]
+2019-11-29 16:18:43,521  INFO  [root]  [login_case.py(test01_login:67)]  -  参数化结果: useranme:13012345678,password:123456,verify_code:8888,expect:我的账户
+2019-11-29 17:02:28,316  INFO  [root]  [login_case.py(get_data:31)]  -  读取到的参数化数据[('13012345678', '123456', '8888', '我的账户')]
+2019-11-29 17:02:41,345  INFO  [root]  [login_case.py(test01_login:67)]  -  参数化结果: useranme:13012345678,password:123456,verify_code:8888,expect:我的账户
+2019-11-29 17:05:08,432  INFO  [root]  [login_case.py(get_data:31)]  -  读取到的参数化数据[('13012345678', '123456', '8888', '我的账户')]
+2019-11-29 17:05:21,371  INFO  [root]  [login_case.py(test01_login:67)]  -  参数化结果: useranme:13012345678,password:123456,verify_code:8888,expect:我的账户
+2019-11-29 17:26:26,941  INFO  [root]  [login_case.py(get_data:31)]  -  读取到的参数化数据[('13012345678', '123456', '8888', '我的账户')]
+2019-11-29 17:26:40,028  INFO  [root]  [login_case.py(test01_login:67)]  -  参数化结果: useranme:13012345678,password:123456,verify_code:8888,expect:我的账户
+2019-11-29 17:28:44,216  INFO  [root]  [login_case.py(get_data:31)]  -  读取到的参数化数据[('13012345678', '123456', '8888', '我的账户')]
+2019-11-29 17:28:57,269  INFO  [root]  [login_case.py(test01_login:67)]  -  参数化结果: useranme:13012345678,password:123456,verify_code:8888,expect:我的账户
+2019-11-29 17:29:12,808  INFO  [root]  [login_case.py(get_data:31)]  -  读取到的参数化数据[('13012345678', '123456', '8888', '我的账户')]
+2019-11-29 17:29:25,945  INFO  [root]  [login_case.py(test01_login:67)]  -  参数化结果: useranme:13012345678,password:123456,verify_code:8888,expect:我的账户
