@@ -17,6 +17,7 @@ suite.addTest(unittest.makeSuite(TestLogin))
 suite.addTest(unittest.makeSuite(TestCart))
 suite.addTest(unittest.makeSuite(TestOrder))
 
+
 # 执行前关闭退出不自动退出
 DriverUtil.auto_quit = False
 
